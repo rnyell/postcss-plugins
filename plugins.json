@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-contains",
+    "description": "A plugin that applies styles to elements based on their existing declaration or property.",
+    "author": "rnyell",
+    "url": "https://github.com/rnyell/postcss-contains",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]

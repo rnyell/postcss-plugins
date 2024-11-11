@@ -443,6 +443,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[redonkulus](https://github.com/redonkulus)   |    [`postcss-atomizer`](https://github.com/acss-io/atomizer/tree/main/packages/postcss-atomizer)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   3|
 |[richbachman](https://github.com/richbachman)   |    [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)   |   3|
+|[rnyell](https://github.com/rnyell)   |    [`postcss-contains`](https://github.com/rnyell/postcss-contains)   |   0|
 |[robbevp](https://github.com/robbevp)   |    [`postcss-multiple-tailwind`](https://github.com/robbevp/postcss-multiple-tailwind)   |   27|
 |[robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   198|
 |[rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   10|
